@@ -19,8 +19,8 @@
 }
 
 .photo {
-	max-width: min(250px, 70vw);
-	margin-bottom: 30px;
+	max-width: min(250px, 60vw);
+	margin-bottom: 20px;
 }
 
 p {
