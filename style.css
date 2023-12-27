@@ -30,7 +30,6 @@ p {
 }
 
 .heart {
-	fill: red;
 	width: 50px;
 	animation: pulse 0.75s ease infinite;
 }
@@ -66,4 +65,9 @@ svg.voice {
 	align-items: center;
 	padding: 10px;
 	font-weight: bold;
+}
+
+.hearts {
+	display: flex;
+	gap: 20px;
 }
