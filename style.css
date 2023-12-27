@@ -20,20 +20,24 @@
 
 .images {
 	display: flex;
-	gap: 40px;
+	gap: 10px;
+	align-items: center;
+	justify-content: center;
 }
 
 .photo {
-	max-width: min(200px, 20vw);
+	max-width: min(250px, 30vw);
 	margin-bottom: 30px;
 }
 
 .photo-left {
 	rotate: -20deg;
+	height: 100px;
 }
 
 .photo-right {
 	rotate: 20deg;
+	height: 100px;
 }
 
 p {
